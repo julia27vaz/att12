@@ -1,0 +1,51 @@
+*{
+    background-color: #D9CDF7;
+    
+   
+    
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 449px;
+    height: 253px;
+}
+
+.text {
+    text-align: left;
+    font-family: 'lato';
+    
+}
+
+
+
+h1 {
+    font-family: 'crimson pro';
+    color:  #271A45;
+
+}
+
+h2{
+    opacity: 67%;
+}
+
+button{
+    border-radius: 2.5rem;
+    color: #271A45;
+    font-weight: 700;
+    border: 0.5px solid #271A45
+    
+}
+
+button:hover{
+    color: aliceblue;
+}
+
+
